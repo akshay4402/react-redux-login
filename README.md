@@ -1,7 +1,10 @@
-# react-redux-login
-react-redux-login
+﻿
+## Usage
 
-
-run Server: npm run api
-
-run app: npm start
+npm intall
+npm start
+```
+## Run Server
+```
+npm run api
+```
